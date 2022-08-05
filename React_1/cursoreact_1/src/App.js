@@ -3,6 +3,9 @@ import './App.css';
 import { useState } from 'react';
 import html2canvas from 'html2canvas';
 
+//Mi primera aplicacion con React
+
+
 function App() {
   let variable='Jota';
   const [linea1,setLinea1] = useState('');
